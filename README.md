@@ -1,7 +1,8 @@
 # XML_Log_CreditCard_Cleaner
 
 #Bugs#
-Appears to miss the last thing in the bigList() OR is failing to save the last item found into the bigList()
+- [] Appears to miss the last thing in the bigList() OR is failing to save the last item found into the bigList()
+- [] Add ability to dynamically find all text files and parse them without altering primary script
 
 #Usage#
 
