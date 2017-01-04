@@ -2,11 +2,13 @@
 
 #Bugs#
 - [ ] Appears to miss the last thing in the bigList() OR is failing to save the last item found into the bigList()
-- [ ] Add ability to dynamically find all text files and parse them without altering primary script
+- [X] Add ability to dynamically find all text files and parse them without altering primary script
 
 #Usage#
 
-Place the .log file with the credit card information in the same directory as the script
-Open script and edit "fileName" with the name of the log.
+Place script with all XML Processor files
 Run script
-It will output a new text file with the found information inside. 
+Script will automatically detect all .log and .txt files within the current directory and parse them.
+It will output any findings to a new file that will be called "Updated ****.txt" or "Updated ****.log"
+Stars are the name of the original file.
+
