@@ -1,13 +1,13 @@
 # XML_Log_CreditCard_Cleaner
 
-#Bugs#
+##Bugs##
 - [ ] Appears to miss the last thing in the bigList() OR is failing to save the last item found into the bigList()
 - [X] Add ability to dynamically find all text files and parse them without altering primary script
 
 ##Requirements##
 Python 3.X
 
-#Usage#
+##Usage#
 
 1. Place script with all XML Processor files
 2. Run script
