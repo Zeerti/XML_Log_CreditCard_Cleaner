@@ -9,6 +9,6 @@
 Place script with all XML Processor files
 Run script
 Script will automatically detect all .log and .txt files within the current directory and parse them.
-It will output any findings to a new file that will be called "Updated ****.txt" or "Updated ****.log"
-Stars are the name of the original file.
+It will output any findings to a new file that will be called "Updated (originalFileName).txt" or "Updated (originalFileName).log" in the same directory.
+
 
